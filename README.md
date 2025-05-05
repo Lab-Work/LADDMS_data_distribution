@@ -11,4 +11,12 @@ The data files may be found at the following public Box link: https://vanderbilt
 
 # Reproducing Plots
 
+Follow the instructions in INSTALL.md to create a conda environment, load the required packages, and then start jupyter notebook.
+
+```
+conda activate laddms-persistent
+jupyter notebook
+```
+
+Load the file reproduce_plots.ipynb and download the needed files, placing them in the correct directory structure. Then run all cells to see the produced plots.
 
